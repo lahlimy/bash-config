@@ -67,4 +67,3 @@ Feel free to customize these aliases according to your preferences.
 
 ---
 
-Feel free to modify the README as needed and add any additional information you think would be helpful for users.
